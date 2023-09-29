@@ -10,6 +10,7 @@
   - ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3)
   - ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
   - ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react)
+  - ![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=flat-square&logo=next.js)
   - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
   
 - **Backend**:
